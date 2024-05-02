@@ -16,3 +16,8 @@ elif(x==0):
     print('is 0')
 else:
     print('greater')
+  
+#   can also use if in to check in any sort of variable 
+# x = [1,2,3]
+# if 2 in x:
+#     print("x has 2")
