@@ -3,8 +3,9 @@ Learning python from code with harry [course link](https://www.youtube.com/playl
 
 According to the playlist, I am studying like this
 
-Video 1-10 = Day 1
-Video 11-20 = Day 2
+Video 1-10 = Day 1,
+Video 11-20 = Day 2,
+Video 21-30 = Day 3
 .
 .
 .
