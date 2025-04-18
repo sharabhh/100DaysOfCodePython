@@ -7,5 +7,5 @@
 
 name = str(input("Enter your name: ")).capitalize()
 date = str(input("Enter the date: "))
-letter = "Dear " + name + ",\nYou are selected!\n" + date
+letter = f"Dear {name} \nYou are selected!\n{date}"
 print(letter)
