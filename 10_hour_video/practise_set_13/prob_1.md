@@ -4,5 +4,5 @@
 `python -m venv myenv`
 
 2. `myenv/Scripts/activate`
-3. install packages with pip install <package-name>
-4. for deletion urn pip uninstall <package-name>
+3. install packages with `pip install <package-name>`
+4. for deletion run `pip uninstall <package-name>`
